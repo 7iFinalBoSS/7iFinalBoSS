@@ -78,6 +78,4 @@ My Name is Devanshu, A software developer attempting to tackle real-world proble
 
 ---
 
-<p align="center">
-   <img src="https://github.com/7iFinalBoSS/7iFinalBoSS/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
