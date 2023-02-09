@@ -13,11 +13,7 @@
 
 * 📰 Subscribe to my Personal Blogs: 
 
-<p align="center">
-<a href="https://medium.com/@atharvamalode">
-   <img src="https://img.shields.io/badge/Revue-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
-</a>
-</p>	
+	
 
 My Name is Devanshu, A software developer attempting to tackle real-world problems and make your job easier, feel free to connect with me here:
 
@@ -44,7 +40,7 @@ My Name is Devanshu, A software developer attempting to tackle real-world proble
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 
 ### 🧩 Libraries & Framework
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
