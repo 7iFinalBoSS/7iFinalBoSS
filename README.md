@@ -1,8 +1,6 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
 
-* 📖 Pursuing my Bachelor's in Artificial Intelligence from [GH Raisoni College of Engineering Nagpur](https://ghrce.raisoni.net/). 
-
 * 🎓 Creating Bugs Since 2020. 
 
 * 🧑🏻‍💻 Machine learning enthusiast, developer. 
